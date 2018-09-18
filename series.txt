@@ -1,0 +1,47 @@
+TABLE 549
+T &wt QAGS1A
+T AGS1. Are you familiar with the following programs or aspects of the Atlantic Growth Strategy?
+T Atlantic Immigration Pilot
+R Yes; 1491-1
+R No; 1491-2
+R DK // REF; 1491-9
+
+TABLE 550
+T &wt QAGS1B
+T AGS1. Are you familiar with the following programs or aspects of the Atlantic Growth Strategy?
+T Accelerated Growth Service
+R Yes; 1492-1
+R No; 1492-2
+R DK // REF; 1492-9
+
+TABLE 551
+T &wt QAGS1C
+T AGS1. Are you familiar with the following programs or aspects of the Atlantic Growth Strategy?
+T Atlantic Trade and Investment Growth Strategy
+R Yes; 1493-1
+R No; 1493-2
+R DK // REF; 1493-9
+
+TABLE 552
+T &wt QAGS1D
+T AGS1. Are you familiar with the following programs or aspects of the Atlantic Growth Strategy?
+T Study and Stay program
+R Yes; 1494-1
+R No; 1494-2
+R DK // REF; 1494-9
+
+TABLE 553
+T &wt QAGS1E
+T AGS1. Are you familiar with the following programs or aspects of the Atlantic Growth Strategy?
+T ACCESS Atlantic
+R Yes; 1495-1
+R No; 1495-2
+R DK // REF; 1495-9
+
+TABLE 554
+T &wt QAGS1F
+T AGS1. Are you familiar with the following programs or aspects of the Atlantic Growth Strategy?
+T It’s a federal-provincial partnership
+R Yes; 1496-1
+R No; 1496-2
+R DK // REF; 1496-9
